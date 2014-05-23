@@ -1,0 +1,16 @@
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\Tetris.SimpleGraphicsForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\bin\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\bin\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\bin\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\bin\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.SimpleGraphicsForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\SimpleDraw.pdb

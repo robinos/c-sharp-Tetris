@@ -1,0 +1,8 @@
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\bin\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\bin\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\MySimpleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\MySimpleGraphics.SimpleGraphicsForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\MySimpleGraphics.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\MySimpleGraphics.csproj.GenerateResource.Cache

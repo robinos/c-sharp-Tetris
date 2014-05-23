@@ -1,0 +1,26 @@
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\bin\Debug\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\bin\Debug\SimpleDraw.pdb
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\SimpleDraw.Form1.resources
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\SimpleDraw.Properties.Resources.resources
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\SimpleDraw.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\Local Settings\Application Data\Temporary Projects\SimpleDraw\obj\Debug\SimpleDraw.pdb
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.pdb
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.pdb
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.Form1.resources
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.Properties.Resources.resources
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.Form1.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.Properties.Resources.resources
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.exe
+C:\Users\Eliyat\Documents\Visual Studio 2012\Projects\MySimpleGraphics\SimpleDraw\obj\Debug\SimpleDraw.pdb

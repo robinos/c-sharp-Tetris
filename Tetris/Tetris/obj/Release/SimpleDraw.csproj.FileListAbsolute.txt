@@ -1,0 +1,8 @@
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\bin\Release\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\bin\Release\SimpleDraw.pdb
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\SimpleDraw.Form1.resources
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\SimpleDraw.Properties.Resources.resources
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\SimpleDraw.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\SimpleDraw.exe
+C:\Documents and Settings\Jacob J\My Documents\Windows Applications\C#\SimpleDraw\SimpleDraw\obj\Release\SimpleDraw.pdb
