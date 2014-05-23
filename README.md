@@ -9,35 +9,24 @@ The next shape coming is displayed for you in a side box.  Black shapes are acti
 The controls are:
 
 Left Arrow Key - Move left
-
 Right Arrow Key - Move right
-
 Up Arrow Key - Rotate counter-clockwise
-
 Down Arrow Key - Rotate clockwise
-
 Space Bar - Drop
 
 
-
 Controllers:
-
 GameLogic.cs - logic for the game, implements ISquareObserver
-
 Start.cs - with the void Main
 
 
 Models:
-
 ISquareObserver.cs - observer interface for altering the view
-
 SquareFilledEventArgs - subclass of EventArgs for passing information
 
 
 Views:
-
 SimpleGraphicsForm.cs (partial class) - subclass of Form, with methods for bitmap drawing
-
 
 
 GameLogic calls on SimpleGraphicsForm (though the interface) to fill squares.  Each time a square is filled, SimpleGraphicsForm fires an event.  GameLogic receives the event, and updates it's array to keep track of the game board (where the active piece is, and where already filled squares are).
